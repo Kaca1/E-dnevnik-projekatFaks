@@ -66,3 +66,8 @@ Koristih eclipse radno okruzenje, javafx za gui i mysql baza podataka.
 -dodaj novi predmet koji predajes:
 <br />
 ![11](https://user-images.githubusercontent.com/87430150/153412383-8ac611da-bda7-4d60-90ef-c32b1a1d3ac1.jpg)
+<br />
+<br /> 
+## baza podataka:
+
+![skica baze](https://user-images.githubusercontent.com/87430150/153417266-4ed832bf-ca5d-4fcb-81f7-f770fe0844fa.png)
