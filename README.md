@@ -1,6 +1,9 @@
 # E-dnevnik-projekatFaks
 
-
+<br /> 
+Projekat za faks iz Osnova racunarskih sistema 1. U trecem semestru.
+Dokument sa trazenim specifikacijama se nalazi u repozitorijumu pod nazivom "specifikacije.pdf".
+  <br /> 
 
 ![1](https://user-images.githubusercontent.com/87430150/153412353-6107d585-b3a9-4c24-a114-32b5774478dc.jpg)
  <br /> 
