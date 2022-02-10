@@ -3,7 +3,8 @@
 <br /> 
 Projekat za faks iz Osnova racunarskih sistema 1. U trecem semestru.
 Dokument sa trazenim specifikacijama, pod nazivom "specifikacije.pdf", se nalazi u repozitorijumu.
-Koristi se javafx za gui i mysql baza podataka. 
+<br /> 
+Koristih eclipse radno okruzenje, javafx za gui i mysql baza podataka. 
   <br /> 
 <br /> 
  -Log in:
